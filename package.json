@@ -1,0 +1,26 @@
+{
+  "name": "weather-journal-app",
+  "version": "1.0.0",
+  "description": "This project's aim is to create an asynchronous web app that uses Web API and user data to dynamically update the UI.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudia-caripa/weather-journal-webapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudia-caripa/weather-journal-webapp/issues"
+  },
+  "homepage": "https://github.com/claudia-caripa/weather-journal-webapp#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
