@@ -14,3 +14,15 @@ This project's aim is to create an asynchronous web app that uses Web API and us
 * Chain another Promise that makes a POST request to add the API data, as well as data entered by the user.
 
 * Update the UI dynamically.
+
+## How to run
+
+This program was developed using NodeJs version v12.17.0
+
+* Go to terminal to project root directory (weather-journal-app)
+
+```
+$> node server.js
+```
+
+* Open in browser localhost:3000
